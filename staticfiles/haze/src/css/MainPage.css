@@ -1,0 +1,19 @@
+#mainpage-container{
+	width: 62%;
+}
+#mainpage-card{
+width: 100%;
+}
+#mainpage-div{
+	padding-top: 1rem;	
+}
+#card-body{
+}
+.audioX{
+	width: 100%;
+}
+#post_pic{
+	height:100px;
+	weight:100px;
+	border-radius: 50%;
+}
