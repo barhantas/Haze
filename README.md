@@ -1,4 +1,5 @@
-#Haze
+# Haze
+![](https://media.giphy.com/media/jTlfjnxdPRNtlsoTft/giphy.gif)
 
 Music Discover Platform that connected with Spotify Web API.Simply ypu can follow other people,share and discover 30 sec. previews of musics.
 
